@@ -1,11 +1,11 @@
 # sleekFlow_todoList
 
-## Create database and Todo table
+## Create database and Todo table  (mssql)
 
  - Run the script from Todo.sql
 
 
-## API database connection (mssql)
+## API database connection
 
  - Change the database connection in TodoAPI\API\TodoAPI\appsettings.json
 
