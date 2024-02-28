@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE18BA68-1924-48A0-BB25-0BF9DCEC1D3D}|API\\TodoAPI\\TodoAPI.csproj|d:\\projects\\vs2022_repo\\sleekflow\\todo\\todoapi\\api\\todoapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE18BA68-1924-48A0-BB25-0BF9DCEC1D3D}|API\\TodoAPI\\TodoAPI.csproj|solutionrelative:api\\todoapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B9755B-BDAA-4112-BCE9-2845F49FF086}|Core\\CoreLibrary\\CoreLibrary.csproj|d:\\projects\\vs2022_repo\\sleekflow\\todo\\todoapi\\core\\corelibrary\\helpers\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B9755B-BDAA-4112-BCE9-2845F49FF086}|Core\\CoreLibrary\\CoreLibrary.csproj|solutionrelative:core\\corelibrary\\helpers\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE18BA68-1924-48A0-BB25-0BF9DCEC1D3D}|API\\TodoAPI\\TodoAPI.csproj|d:\\projects\\vs2022_repo\\sleekflow\\todo\\todoapi\\api\\todoapi\\dtos\\todofilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE18BA68-1924-48A0-BB25-0BF9DCEC1D3D}|API\\TodoAPI\\TodoAPI.csproj|solutionrelative:api\\todoapi\\dtos\\todofilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE18BA68-1924-48A0-BB25-0BF9DCEC1D3D}|API\\TodoAPI\\TodoAPI.csproj|d:\\projects\\vs2022_repo\\sleekflow\\todo\\todoapi\\api\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE18BA68-1924-48A0-BB25-0BF9DCEC1D3D}|API\\TodoAPI\\TodoAPI.csproj|solutionrelative:api\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE18BA68-1924-48A0-BB25-0BF9DCEC1D3D}|API\\TodoAPI\\TodoAPI.csproj|d:\\projects\\vs2022_repo\\sleekflow\\todo\\todoapi\\api\\todoapi\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE18BA68-1924-48A0-BB25-0BF9DCEC1D3D}|API\\TodoAPI\\TodoAPI.csproj|solutionrelative:api\\todoapi\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B9755B-BDAA-4112-BCE9-2845F49FF086}|Core\\CoreLibrary\\CoreLibrary.csproj|d:\\projects\\vs2022_repo\\sleekflow\\todo\\todoapi\\core\\corelibrary\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B9755B-BDAA-4112-BCE9-2845F49FF086}|Core\\CoreLibrary\\CoreLibrary.csproj|solutionrelative:core\\corelibrary\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE18BA68-1924-48A0-BB25-0BF9DCEC1D3D}|API\\TodoAPI\\TodoAPI.csproj|d:\\projects\\vs2022_repo\\sleekflow\\todo\\todoapi\\api\\todoapi\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE18BA68-1924-48A0-BB25-0BF9DCEC1D3D}|API\\TodoAPI\\TodoAPI.csproj|solutionrelative:api\\todoapi\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B9755B-BDAA-4112-BCE9-2845F49FF086}|Core\\CoreLibrary\\CoreLibrary.csproj|d:\\projects\\vs2022_repo\\sleekflow\\todo\\todoapi\\core\\corelibrary\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B9755B-BDAA-4112-BCE9-2845F49FF086}|Core\\CoreLibrary\\CoreLibrary.csproj|solutionrelative:core\\corelibrary\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B9755B-BDAA-4112-BCE9-2845F49FF086}|Core\\CoreLibrary\\CoreLibrary.csproj|d:\\projects\\vs2022_repo\\sleekflow\\todo\\todoapi\\core\\corelibrary\\services\\interfaces\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B9755B-BDAA-4112-BCE9-2845F49FF086}|Core\\CoreLibrary\\CoreLibrary.csproj|solutionrelative:core\\corelibrary\\services\\interfaces\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B9755B-BDAA-4112-BCE9-2845F49FF086}|Core\\CoreLibrary\\CoreLibrary.csproj|d:\\projects\\vs2022_repo\\sleekflow\\todo\\todoapi\\core\\corelibrary\\helpers\\automapperhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B9755B-BDAA-4112-BCE9-2845F49FF086}|Core\\CoreLibrary\\CoreLibrary.csproj|solutionrelative:core\\corelibrary\\helpers\\automapperhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE18BA68-1924-48A0-BB25-0BF9DCEC1D3D}|API\\TodoAPI\\TodoAPI.csproj|d:\\projects\\vs2022_repo\\sleekflow\\todo\\todoapi\\api\\todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE18BA68-1924-48A0-BB25-0BF9DCEC1D3D}|API\\TodoAPI\\TodoAPI.csproj|solutionrelative:api\\todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B9755B-BDAA-4112-BCE9-2845F49FF086}|Core\\CoreLibrary\\CoreLibrary.csproj|d:\\projects\\vs2022_repo\\sleekflow\\todo\\todoapi\\core\\corelibrary\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B9755B-BDAA-4112-BCE9-2845F49FF086}|Core\\CoreLibrary\\CoreLibrary.csproj|solutionrelative:core\\corelibrary\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B9755B-BDAA-4112-BCE9-2845F49FF086}|Core\\CoreLibrary\\CoreLibrary.csproj|d:\\projects\\vs2022_repo\\sleekflow\\todo\\todoapi\\core\\corelibrary\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B9755B-BDAA-4112-BCE9-2845F49FF086}|Core\\CoreLibrary\\CoreLibrary.csproj|solutionrelative:core\\corelibrary\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoFilterDTO.cs",
+              "DocumentMoniker": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\API\\TodoAPI\\DTOs\\TodoFilterDTO.cs",
+              "RelativeDocumentMoniker": "API\\TodoAPI\\DTOs\\TodoFilterDTO.cs",
+              "ToolTip": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\API\\TodoAPI\\DTOs\\TodoFilterDTO.cs",
+              "RelativeToolTip": "API\\TodoAPI\\DTOs\\TodoFilterDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:11:34.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\Core\\CoreLibrary\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "Core\\CoreLibrary\\Models\\Todo.cs",
+              "ToolTip": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\Core\\CoreLibrary\\Models\\Todo.cs",
+              "RelativeToolTip": "Core\\CoreLibrary\\Models\\Todo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T15:39:19.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\API\\TodoAPI\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "API\\TodoAPI\\Controllers\\TodoController.cs",
+              "ToolTip": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\API\\TodoAPI\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "API\\TodoAPI\\Controllers\\TodoController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAiwHIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T15:35:31.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITodoService.cs",
+              "DocumentMoniker": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\Core\\CoreLibrary\\Services\\Interfaces\\ITodoService.cs",
+              "RelativeDocumentMoniker": "Core\\CoreLibrary\\Services\\Interfaces\\ITodoService.cs",
+              "ToolTip": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\Core\\CoreLibrary\\Services\\Interfaces\\ITodoService.cs",
+              "RelativeToolTip": "Core\\CoreLibrary\\Services\\Interfaces\\ITodoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T16:24:13.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutoMapperHelper.cs",
+              "DocumentMoniker": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\Core\\CoreLibrary\\Helpers\\AutoMapperHelper.cs",
+              "RelativeDocumentMoniker": "Core\\CoreLibrary\\Helpers\\AutoMapperHelper.cs",
+              "ToolTip": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\Core\\CoreLibrary\\Helpers\\AutoMapperHelper.cs",
+              "RelativeToolTip": "Core\\CoreLibrary\\Helpers\\AutoMapperHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:48:52.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\API\\TodoAPI\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "API\\TodoAPI\\AutoMapper.cs",
+              "ToolTip": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\API\\TodoAPI\\AutoMapper.cs",
+              "RelativeToolTip": "API\\TodoAPI\\AutoMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAACsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:42:26.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\Core\\CoreLibrary\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Core\\CoreLibrary\\DependencyInjection.cs",
+              "ToolTip": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\Core\\CoreLibrary\\DependencyInjection.cs",
+              "RelativeToolTip": "Core\\CoreLibrary\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:31:52.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\API\\TodoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "API\\TodoAPI\\Program.cs",
+              "ToolTip": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\API\\TodoAPI\\Program.cs",
+              "RelativeToolTip": "API\\TodoAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T14:15:22.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Constant.cs",
+              "DocumentMoniker": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\Core\\CoreLibrary\\Helpers\\Constant.cs",
+              "RelativeDocumentMoniker": "Core\\CoreLibrary\\Helpers\\Constant.cs",
+              "ToolTip": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\Core\\CoreLibrary\\Helpers\\Constant.cs",
+              "RelativeToolTip": "Core\\CoreLibrary\\Helpers\\Constant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:21:19.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodoDTO.cs",
+              "DocumentMoniker": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\API\\TodoAPI\\DTOs\\TodoDTO.cs",
+              "RelativeDocumentMoniker": "API\\TodoAPI\\DTOs\\TodoDTO.cs",
+              "ToolTip": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\API\\TodoAPI\\DTOs\\TodoDTO.cs",
+              "RelativeToolTip": "API\\TodoAPI\\DTOs\\TodoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:23:19.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\Core\\CoreLibrary\\Services\\TodoService.cs",
+              "RelativeDocumentMoniker": "Core\\CoreLibrary\\Services\\TodoService.cs",
+              "ToolTip": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\Core\\CoreLibrary\\Services\\TodoService.cs",
+              "RelativeToolTip": "Core\\CoreLibrary\\Services\\TodoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T16:24:53.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\API\\TodoAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\TodoAPI\\appsettings.json",
+              "ToolTip": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\API\\TodoAPI\\appsettings.json",
+              "RelativeToolTip": "API\\TodoAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-23T15:40:36.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\Core\\CoreLibrary\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Core\\CoreLibrary\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Projects\\VS2022_REPO\\SleekFlow\\ToDo\\TodoAPI\\Core\\CoreLibrary\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Core\\CoreLibrary\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T16:07:26.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
