@@ -13,4 +13,12 @@
 
  - Change the API endpoint in TodoAPP\src\environments\environment.development.ts
 
+## Tech Stack
+
+**Client:** Angular, TailwindCSS
+
+**Server:** .NET 6
+
+**Database**: mssql
+
  
